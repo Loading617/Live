@@ -1,2 +1,2 @@
 # Live
-A Radio App for Google TV
+Cross Platform Radio App
